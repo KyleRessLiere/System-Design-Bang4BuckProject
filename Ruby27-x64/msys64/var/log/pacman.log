@@ -1,0 +1,193 @@
+[2020-09-03T18:20:13+0000] [PACMAN] Running 'pacman -Syu --root /tmp/newmsys/msys64'
+[2020-09-03T18:20:13+0000] [PACMAN] synchronizing package lists
+[2020-09-03T18:20:14+0000] [PACMAN] starting core system upgrade
+[2020-09-03T18:20:14+0000] [PACMAN] starting full system upgrade
+[2020-09-03T18:20:15+0000] [PACMAN] Running 'pacman -S --noconfirm --root /tmp/newmsys/msys64 base'
+[2020-09-03T18:20:37+0000] [ALPM] transaction started
+[2020-09-03T18:20:37+0000] [ALPM] installed msys2-runtime (3.1.7-1)
+[2020-09-03T18:20:38+0000] [ALPM] installed bash (4.4.023-2)
+[2020-09-03T18:20:38+0000] [ALPM] installed bash-completion (2.10-1)
+[2020-09-03T18:20:38+0000] [ALPM] installed gcc-libs (9.3.0-1)
+[2020-09-03T18:20:38+0000] [ALPM] installed libbz2 (1.0.8-2)
+[2020-09-03T18:20:39+0000] [ALPM] installed libiconv (1.16-1)
+[2020-09-03T18:20:39+0000] [ALPM] installed libexpat (2.2.9-1)
+[2020-09-03T18:20:39+0000] [ALPM] installed libintl (0.19.8.1-1)
+[2020-09-03T18:20:39+0000] [ALPM] installed libgettextpo (0.19.8.1-1)
+[2020-09-03T18:20:39+0000] [ALPM] installed libasprintf (0.19.8.1-1)
+[2020-09-03T18:20:39+0000] [ALPM] installed gettext (0.19.8.1-1)
+[2020-09-03T18:20:39+0000] [ALPM] installed liblzma (5.2.5-1)
+[2020-09-03T18:20:39+0000] [ALPM] installed liblz4 (1.9.2-1)
+[2020-09-03T18:20:39+0000] [ALPM] installed gmp (6.2.0-1)
+[2020-09-03T18:20:39+0000] [ALPM] installed libhogweed (3.6-1)
+[2020-09-03T18:20:39+0000] [ALPM] installed libnettle (3.6-1)
+[2020-09-03T18:20:40+0000] [ALPM] installed coreutils (8.32-1)
+[2020-09-03T18:20:40+0000] [ALPM] installed icu (67.1-1)
+[2020-09-03T18:20:46+0000] [ALPM] installed ncurses (6.2-1)
+[2020-09-03T18:20:46+0000] [ALPM] installed libreadline (8.0.004-1)
+[2020-09-03T18:20:46+0000] [ALPM] installed zlib (1.2.11-1)
+[2020-09-03T18:20:46+0000] [ALPM] installed libxml2 (2.9.10-5)
+[2020-09-03T18:20:47+0000] [ALPM] installed libzstd (1.4.5-2)
+[2020-09-03T18:20:47+0000] [ALPM] installed bsdtar (3.4.3-1)
+[2020-09-03T18:20:47+0000] [ALPM] installed bzip2 (1.0.8-2)
+[2020-09-03T18:20:47+0000] [ALPM] installed libopenssl (1.1.1.g-3)
+[2020-09-03T18:20:47+0000] [ALPM] installed openssl (1.1.1.g-3)
+[2020-09-03T18:20:47+0000] [ALPM] installed findutils (4.7.0-1)
+[2020-09-03T18:20:47+0000] [ALPM] installed sed (4.8-1)
+[2020-09-03T18:20:48+0000] [ALPM] installed libffi (3.3-1)
+[2020-09-03T18:20:48+0000] [ALPM] installed libpcre (8.44-1)
+[2020-09-03T18:20:48+0000] [ALPM] installed less (551-1)
+[2020-09-03T18:20:48+0000] [ALPM] installed gzip (1.10-1)
+[2020-09-03T18:20:48+0000] [ALPM] installed libcrypt (2.1-2)
+[2020-09-03T18:20:48+0000] [ALPM] installed info (6.7-2)
+[2020-09-03T18:20:48+0000] [ALPM] installed libtasn1 (4.16.0-1)
+[2020-09-03T18:20:48+0000] [ALPM] installed libgpg-error (1.38-1)
+[2020-09-03T18:20:48+0000] [ALPM] installed libgcrypt (1.8.6-1)
+[2020-09-03T18:20:48+0000] [ALPM] installed libxslt (1.1.34-3)
+[2020-09-03T18:20:48+0000] [ALPM] installed glib2 (2.54.3-3)
+[2020-09-03T18:20:48+0000] [ALPM] installed libp11-kit (0.23.20-2)
+[2020-09-03T18:20:49+0000] [ALPM] installed p11-kit (0.23.20-2)
+[2020-09-03T18:20:49+0000] [ALPM] installed ca-certificates (20190110-1)
+[2020-09-03T18:20:49+0000] [ALPM] installed brotli (1.0.7-3)
+[2020-09-03T18:20:49+0000] [ALPM] installed libdb (5.3.28-3)
+[2020-09-03T18:20:49+0000] [ALPM] installed libedit (20191231_3.1-1)
+[2020-09-03T18:20:51+0000] [ALPM] installed tcl (8.6.10-1)
+[2020-09-03T18:20:51+0000] [ALPM] installed libsqlite (3.33.0-1)
+[2020-09-03T18:20:51+0000] [ALPM] installed heimdal-libs (7.7.0-2)
+[2020-09-03T18:20:51+0000] [ALPM] installed libunistring (0.9.10-1)
+[2020-09-03T18:20:52+0000] [ALPM] installed libidn2 (2.3.0-1)
+[2020-09-03T18:20:52+0000] [ALPM] installed libmetalink (0.1.3-3)
+[2020-09-03T18:20:52+0000] [ALPM] installed libnghttp2 (1.41.0-1)
+[2020-09-03T18:20:52+0000] [ALPM] installed libpsl (0.21.0-1)
+[2020-09-03T18:20:52+0000] [ALPM] installed libssh2 (1.9.0-1)
+[2020-09-03T18:20:52+0000] [ALPM] installed libcurl (7.71.1-1)
+[2020-09-03T18:20:52+0000] [ALPM] installed curl (7.71.1-1)
+[2020-09-03T18:20:53+0000] [ALPM] installed grep (3.0-2)
+[2020-09-03T18:20:53+0000] [ALPM] installed filesystem (2020.02-7)
+[2020-09-03T18:20:53+0000] [ALPM] installed dash (0.5.11.1-2)
+[2020-09-03T18:20:53+0000] [ALPM] installed file (5.39-1)
+[2020-09-03T18:20:53+0000] [ALPM] installed mpfr (4.1.0-1)
+[2020-09-03T18:20:53+0000] [ALPM] installed gawk (5.1.0-1)
+[2020-09-03T18:20:53+0000] [ALPM] installed libargp (20110921-2)
+[2020-09-03T18:20:53+0000] [ALPM] installed getent (2.18.90-2)
+[2020-09-03T18:20:53+0000] [ALPM] installed tftp-hpa (5.2-3)
+[2020-09-03T18:20:53+0000] [ALPM] installed inetutils (1.9.4-2)
+[2020-09-03T18:20:54+0000] [ALPM] installed mintty (1~3.3.0-1)
+[2020-09-03T18:20:54+0000] [ALPM] installed msys2-keyring (r21.b39fb11-1)
+[2020-09-03T18:20:54+0000] [ALPM] installed msys2-launcher (1.0-1)
+[2020-09-03T18:20:54+0000] [ALPM] installed libassuan (2.5.3-1)
+[2020-09-03T18:20:54+0000] [ALPM] installed libgnutls (3.6.14-1)
+[2020-09-03T18:20:54+0000] [ALPM] installed libksba (1.4.0-1)
+[2020-09-03T18:20:55+0000] [ALPM] installed libnpth (1.6-1)
+[2020-09-03T18:20:55+0000] [ALPM] installed nettle (3.6-1)
+[2020-09-03T18:20:55+0000] [ALPM] installed pinentry (1.1.0-2)
+[2020-09-03T18:20:55+0000] [ALPM] installed gnupg (2.2.21-1)
+[2020-09-03T18:20:55+0000] [ALPM] installed pacman-mirrors (20200329-1)
+[2020-09-03T18:20:55+0000] [ALPM] installed which (2.21-2)
+[2020-09-03T18:20:55+0000] [ALPM] installed xz (5.2.5-1)
+[2020-09-03T18:20:55+0000] [ALPM] installed zstd (1.4.5-2)
+[2020-09-03T18:20:57+0000] [ALPM] installed pacman (5.2.2-3)
+[2020-09-03T18:20:57+0000] [ALPM] installed db (5.3.28-3)
+[2020-09-03T18:20:57+0000] [ALPM] installed libgdbm (1.18.1-3)
+[2020-09-03T18:20:57+0000] [ALPM] installed gdbm (1.18.1-3)
+[2020-09-03T18:21:00+0000] [ALPM] installed perl (5.32.0-2)
+[2020-09-03T18:21:00+0000] [ALPM] installed pacman-contrib (1.3.0-1)
+[2020-09-03T18:21:00+0000] [ALPM] installed rebase (4.4.4-1)
+[2020-09-03T18:21:00+0000] [ALPM] installed time (1.9-1)
+[2020-09-03T18:21:03+0000] [ALPM] installed tzcode (2020a-1)
+[2020-09-03T18:21:03+0000] [ALPM] installed libutil-linux (2.35.2-1)
+[2020-09-03T18:21:03+0000] [ALPM] installed util-linux (2.35.2-1)
+[2020-09-03T18:21:03+0000] [ALPM] installed libgpgme (1.14.0-1)
+[2020-09-03T18:21:03+0000] [ALPM] installed libpcre2_8 (10.35-1)
+[2020-09-03T18:21:03+0000] [ALPM] installed wget (1.20.3-1)
+[2020-09-03T18:21:03+0000] [ALPM] installed base (2020.05-2)
+[2020-09-03T18:21:03+0000] [ALPM] transaction completed
+[2020-09-03T18:21:03+0000] [ALPM] running 'texinfo-install.hook'...
+[2020-10-06T09:26:43+0000] [PACMAN] Running 'pacman -Rdd --noconfirm catgets libcatgets'
+[2020-10-06T09:26:44+0000] [PACMAN] Running 'pacman -Syu --needed --noconfirm --cachedir=/c/msys64/var/cache/pacman/pkg'
+[2020-10-06T09:26:44+0000] [PACMAN] synchronizing package lists
+[2020-10-06T09:27:23+0000] [PACMAN] starting core system upgrade
+[2020-10-06T09:27:47+0000] [ALPM] transaction started
+[2020-10-06T09:27:47+0000] [ALPM] upgraded msys2-runtime (3.1.7-1 -> 3.1.7-2)
+[2020-10-06T09:27:47+0000] [ALPM] upgraded mintty (1~3.3.0-1 -> 1~3.4.0-1)
+[2020-10-06T09:27:49+0000] [ALPM] upgraded pacman (5.2.2-3 -> 5.2.2-4)
+[2020-10-06T09:27:49+0000] [ALPM] transaction completed
+[2020-10-06T09:27:49+0000] [PACMAN] Running 'pacman -Su --needed --noconfirm --cachedir=/c/msys64/var/cache/pacman/pkg'
+[2020-10-06T09:27:49+0000] [PACMAN] starting core system upgrade
+[2020-10-06T09:27:50+0000] [PACMAN] starting full system upgrade
+[2020-10-06T09:29:21+0000] [ALPM] transaction started
+[2020-10-06T09:29:21+0000] [ALPM] upgraded brotli (1.0.7-3 -> 1.0.7-4)
+[2020-10-06T09:29:21+0000] [ALPM] upgraded libiconv (1.16-1 -> 1.16-2)
+[2020-10-06T09:29:21+0000] [ALPM] upgraded libsqlite (3.33.0-1 -> 3.33.0-2)
+[2020-10-06T09:29:21+0000] [ALPM] upgraded info (6.7-2 -> 6.7-3)
+[2020-10-06T09:29:21+0000] [ALPM] upgraded libxml2 (2.9.10-5 -> 2.9.10-6)
+[2020-10-06T09:29:21+0000] [ALPM] upgraded gnupg (2.2.21-1 -> 2.2.23-1)
+[2020-10-06T09:29:23+0000] [ALPM-SCRIPTLET] ==> Appending keys from msys2.gpg...
+[2020-10-06T09:29:24+0000] [ALPM-SCRIPTLET] ==> Locally signing trusted keys in keyring...
+[2020-10-06T09:29:24+0000] [ALPM-SCRIPTLET]   -> Locally signing key 6E8FEAFF9644F54EED90EEA0790AE56A1D3CFDDC...
+[2020-10-06T09:29:28+0000] [ALPM-SCRIPTLET]   -> Locally signing key D55E7A6D7CE9BA1587C0ACACF40D263ECA25678A...
+[2020-10-06T09:29:28+0000] [ALPM-SCRIPTLET]   -> Locally signing key 123D4D51A1793859C2BE916BBBE514E53E0D0813...
+[2020-10-06T09:29:28+0000] [ALPM-SCRIPTLET]   -> Locally signing key B91BCF3303284BF90CC043CA9F418C233E652008...
+[2020-10-06T09:29:28+0000] [ALPM-SCRIPTLET]   -> Locally signing key 9DD0D4217D75A33B896159E6DA7EF2ABAEEA755C...
+[2020-10-06T09:29:28+0000] [ALPM-SCRIPTLET]   -> Locally signing key 69985C5EB351011C78DF7F6D755B8182ACD22879...
+[2020-10-06T09:29:28+0000] [ALPM-SCRIPTLET] ==> Importing owner trust values...
+[2020-10-06T09:29:28+0000] [ALPM-SCRIPTLET] ==> Disabling revoked keys in keyring...
+[2020-10-06T09:29:29+0000] [ALPM-SCRIPTLET]   -> Disabling key B19514FB53EB3668471B296E794DCF97F93FC717...
+[2020-10-06T09:29:29+0000] [ALPM-SCRIPTLET] ==> Updating trust database...
+[2020-10-06T09:29:29+0000] [ALPM-SCRIPTLET] gpg: next trustdb check due at 2021-06-19
+[2020-10-06T09:29:29+0000] [ALPM] upgraded libgpgme (1.14.0-1 -> 1.14.0-2)
+[2020-10-06T09:29:29+0000] [ALPM] upgraded rebase (4.4.4-1 -> 4.4.4-2)
+[2020-10-06T09:29:29+0000] [ALPM] transaction completed
+[2020-10-06T09:29:29+0000] [ALPM] running 'texinfo-install.hook'...
+[2020-10-06T09:29:30+0000] [PACMAN] Running 'pacman -S --needed --noconfirm --cachedir=/c/msys64/var/cache/pacman/pkg autoconf autogen automake-wrapper diffutils file gawk grep libtool m4 make patch pkg-config sed texinfo texinfo-tex wget mingw-w64-x86_64-binutils mingw-w64-x86_64-crt-git mingw-w64-x86_64-gcc mingw-w64-x86_64-gcc-libs mingw-w64-x86_64-headers-git mingw-w64-x86_64-libmangle-git mingw-w64-x86_64-libwinpthread-git mingw-w64-x86_64-make mingw-w64-x86_64-pkg-config mingw-w64-x86_64-tools-git mingw-w64-x86_64-winpthreads-git'
+[2020-10-06T09:37:00+0000] [ALPM] transaction started
+[2020-10-06T09:37:00+0000] [ALPM] installed m4 (1.4.18-2)
+[2020-10-06T09:37:00+0000] [ALPM] installed diffutils (3.7-1)
+[2020-10-06T09:37:01+0000] [ALPM] installed autoconf (2.69-5)
+[2020-10-06T09:37:01+0000] [ALPM] installed libatomic_ops (7.6.10-1)
+[2020-10-06T09:37:01+0000] [ALPM] installed libgc (8.0.4-1)
+[2020-10-06T09:37:01+0000] [ALPM] installed libltdl (2.4.6-9)
+[2020-10-06T09:37:02+0000] [ALPM] installed libguile (2.2.7-1)
+[2020-10-06T09:37:02+0000] [ALPM] installed autogen (5.18.16-1)
+[2020-10-06T09:37:03+0000] [ALPM] installed automake1.6 (1.6.3-3)
+[2020-10-06T09:37:03+0000] [ALPM] installed automake1.7 (1.7.9-3)
+[2020-10-06T09:37:03+0000] [ALPM] installed automake1.8 (1.8.5-4)
+[2020-10-06T09:37:03+0000] [ALPM] installed automake1.9 (1.9.6-3)
+[2020-10-06T09:37:04+0000] [ALPM] installed automake1.10 (1.10.3-4)
+[2020-10-06T09:37:04+0000] [ALPM] installed automake1.11 (1.11.6-4)
+[2020-10-06T09:37:04+0000] [ALPM] installed automake1.12 (1.12.6-4)
+[2020-10-06T09:37:05+0000] [ALPM] installed automake1.13 (1.13.4-5)
+[2020-10-06T09:37:05+0000] [ALPM] installed automake1.14 (1.14.1-4)
+[2020-10-06T09:37:05+0000] [ALPM] installed automake1.15 (1.15.1-2)
+[2020-10-06T09:37:06+0000] [ALPM] installed automake1.16 (1.16.2-2)
+[2020-10-06T09:37:06+0000] [ALPM] installed automake-wrapper (11-1)
+[2020-10-06T09:37:06+0000] [ALPM] installed tar (1.32-1)
+[2020-10-06T09:37:07+0000] [ALPM] installed libtool (2.4.6-9)
+[2020-10-06T09:37:07+0000] [ALPM] installed make (4.3-1)
+[2020-10-06T09:37:07+0000] [ALPM] installed patch (2.7.6-1)
+[2020-10-06T09:37:07+0000] [ALPM] installed pkg-config (0.29.2-1)
+[2020-10-06T09:37:08+0000] [ALPM] installed texinfo (6.7-3)
+[2020-10-06T09:37:08+0000] [ALPM] installed texinfo-tex (6.7-3)
+[2020-10-06T09:37:08+0000] [ALPM] installed mingw-w64-x86_64-libiconv (1.16-1)
+[2020-10-06T09:37:08+0000] [ALPM] installed mingw-w64-x86_64-zlib (1.2.11-7)
+[2020-10-06T09:37:08+0000] [ALPM] installed mingw-w64-x86_64-binutils (2.35.1-2)
+[2020-10-06T09:37:10+0000] [ALPM] installed mingw-w64-x86_64-headers-git (8.0.0.6001.98dad1fe-1)
+[2020-10-06T09:37:11+0000] [ALPM] installed mingw-w64-x86_64-crt-git (8.0.0.6001.98dad1fe-1)
+[2020-10-06T09:37:11+0000] [ALPM] installed mingw-w64-x86_64-isl (0.22.1-1)
+[2020-10-06T09:37:11+0000] [ALPM] installed mingw-w64-x86_64-gmp (6.2.0-1)
+[2020-10-06T09:37:11+0000] [ALPM] installed mingw-w64-x86_64-mpfr (4.1.0-2)
+[2020-10-06T09:37:11+0000] [ALPM] installed mingw-w64-x86_64-mpc (1.2.0-1)
+[2020-10-06T09:37:11+0000] [ALPM] installed mingw-w64-x86_64-libwinpthread-git (8.0.0.6001.98dad1fe-3)
+[2020-10-06T09:37:11+0000] [ALPM] installed mingw-w64-x86_64-gcc-libs (10.2.0-3)
+[2020-10-06T09:37:11+0000] [ALPM] installed mingw-w64-x86_64-windows-default-manifest (6.4-3)
+[2020-10-06T09:37:11+0000] [ALPM] installed mingw-w64-x86_64-winpthreads-git (8.0.0.6001.98dad1fe-3)
+[2020-10-06T09:37:11+0000] [ALPM] installed mingw-w64-x86_64-zstd (1.4.5-1)
+[2020-10-06T09:37:12+0000] [ALPM] installed mingw-w64-x86_64-gcc (10.2.0-3)
+[2020-10-06T09:37:12+0000] [ALPM] installed mingw-w64-x86_64-libmangle-git (8.0.0.6001.98dad1fe-1)
+[2020-10-06T09:37:12+0000] [ALPM] installed mingw-w64-x86_64-expat (2.2.9-1)
+[2020-10-06T09:37:14+0000] [ALPM] installed mingw-w64-x86_64-gettext (0.19.8.1-9)
+[2020-10-06T09:37:14+0000] [ALPM] installed mingw-w64-x86_64-make (4.3-1)
+[2020-10-06T09:37:14+0000] [ALPM] installed mingw-w64-x86_64-pkg-config (0.29.2-2)
+[2020-10-06T09:37:15+0000] [ALPM] installed mingw-w64-x86_64-tools-git (8.0.0.6001.98dad1fe-1)
+[2020-10-06T09:37:15+0000] [ALPM] transaction completed
+[2020-10-06T09:37:15+0000] [ALPM] running 'texinfo-install.hook'...
+[2020-10-24T21:52:35-0400] [PACMAN] Running 'pacman -S --needed --noconfirm autoconf autogen automake-wrapper diffutils file gawk grep libtool m4 make patch pkg-config sed texinfo texinfo-tex wget mingw-w64-x86_64-binutils mingw-w64-x86_64-crt-git mingw-w64-x86_64-gcc mingw-w64-x86_64-gcc-libs mingw-w64-x86_64-headers-git mingw-w64-x86_64-libmangle-git mingw-w64-x86_64-libwinpthread-git mingw-w64-x86_64-make mingw-w64-x86_64-pkg-config mingw-w64-x86_64-tools-git mingw-w64-x86_64-winpthreads-git'

@@ -1,0 +1,23 @@
+{
+  "name": "bang4buck-website",
+  "version": "1.0.0",
+  "description": "Bang4Buck is a service web application that takes a different approach to eating out by starting with your desired spending and working backwards to show you what you can eat at local restaurants for that price or less.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bang4Buck/Bang4Buck-Website.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bang4Buck/Bang4Buck-Website/issues"
+  },
+  "homepage": "https://github.com/Bang4Buck/Bang4Buck-Website#readme",
+  "dependencies": {
+    "bootstrap": "^4.5.3",
+    "node-sass": "^4.14.1"
+  }
+}

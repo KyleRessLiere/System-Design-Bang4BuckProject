@@ -1,0 +1,5 @@
+Bang4Buck is a service web application that takes a different approach to eating out by starting with your desired spending and working backwards to show you what you can eat at local restaurants for that price or less.
+
+As college students, we realize that getting the most value for your dollar can go a long way in controlling your spending; helping other have more control over their dining experience is the inspiration for this project.
+
+This application has eight total HTML web pages with corresponding CSS files. All files are directly within the Bang4Buck-Website folder. For this iteration, no web frameworks have been used for the design. The 'homepage' will be where users can conduct their food searches using the map, the 'about' page provides general info about the company, the 'faq' page shows commonly asked questions, the 'helppage' provides contact info, the 'premium' page shows other features availabe for users, and the 'sponserspage' provides a list of sponsors we partner with.

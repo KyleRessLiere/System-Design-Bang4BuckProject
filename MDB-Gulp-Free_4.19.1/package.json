@@ -1,0 +1,36 @@
+{
+  "name": "bang4buck",
+  "version": "4.19.1",
+  "main": "dist/js/mdb.js",
+  "scripts": {
+    "js-compile-plugins": "babel --presets env js/src/ --out-dir js/dist/",
+    "css-compile": "gulp css-compile",
+    "css-minify": "gulp css-minify",
+    "js-build": "gulp js-build",
+    "js-minify": "gulp js-minify"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://git.mdbootstrap.com/mdb/jquery/jq-gulp.git"
+  },
+  "author": "MDBootstrap",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-eslint": "^8.1.2",
+    "babel-preset-env": "^1.6.1",
+    "browser-sync": "^2.26.13",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^7.0.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-cssmin": "^0.2.0",
+    "gulp-imagemin": "^6.2.0",
+    "gulp-minify": "^3.1.0",
+    "gulp-rename": "^1.4.0",
+    "gulp-sass": "^4.1.0"
+  },
+  "dependencies": {
+    "@babel/core": "^7.3.3"
+  },
+  "description": ""
+}
